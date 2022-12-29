@@ -1,5 +1,5 @@
 # 💫 About Me:
-Here you can see all projects I have worked on at the college and personal projects as well, I really like to learn and try new technologies, as you can see there are variety of projects which were developed in a variety of programming languages and frameworks, currently I'm working with JavaScript and React.<br><br>In the link below you can see my new profile where you can see my new projects: "https://github.com/Leonel-Padilla2" <br>
+Here you can see all projects I have worked on at the college and personal projects as well, I really like to learn and try new technologies, as you can see there are variety of projects which were developed in a variety of programming languages and frameworks, currently I'm working with JavaScript and React.<br><br>In the link below you can see my new profile where you can see my new projects: <br> "https://github.com/Leonel-Padilla2" <br>
 
 
 ## 🌐 Socials:
